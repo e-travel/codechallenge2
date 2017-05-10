@@ -1,16 +1,28 @@
 28/11/2016
 
-  /$$$$$$                  /$$        /$$$$$$                  /$$                  /$$$$$$  /$$                 /$$ /$$                                        
- /$$__  $$                | $$       /$$__  $$                | $$                 /$$__  $$| $$                | $$| $$                                        
-|__/  \ $$ /$$$$$$$   /$$$$$$$      | $$  \__/  /$$$$$$   /$$$$$$$  /$$$$$$       | $$  \__/| $$$$$$$   /$$$$$$ | $$| $$  /$$$$$$  /$$$$$$$   /$$$$$$   /$$$$$$ 
-  /$$$$$$/| $$__  $$ /$$__  $$      | $$       /$$__  $$ /$$__  $$ /$$__  $$      | $$      | $$__  $$ |____  $$| $$| $$ /$$__  $$| $$__  $$ /$$__  $$ /$$__  $$
- /$$____/ | $$  \ $$| $$  | $$      | $$      | $$  \ $$| $$  | $$| $$$$$$$$      | $$      | $$  \ $$  /$$$$$$$| $$| $$| $$$$$$$$| $$  \ $$| $$  \ $$| $$$$$$$$
-| $$      | $$  | $$| $$  | $$      | $$    $$| $$  | $$| $$  | $$| $$_____/      | $$    $$| $$  | $$ /$$__  $$| $$| $$| $$_____/| $$  | $$| $$  | $$| $$_____/
-| $$$$$$$$| $$  | $$|  $$$$$$$      |  $$$$$$/|  $$$$$$/|  $$$$$$$|  $$$$$$$      |  $$$$$$/| $$  | $$|  $$$$$$$| $$| $$|  $$$$$$$| $$  | $$|  $$$$$$$|  $$$$$$$
-|________/|__/  |__/ \_______/       \______/  \______/  \_______/ \_______/       \______/ |__/  |__/ \_______/|__/|__/ \_______/|__/  |__/ \____  $$ \_______/
-                                                                                                                                             /$$  \ $$          
-                                                                                                                                            |  $$$$$$/          
-                                                                                                                                             \______/           
+  /$$$$$$                  /$$        /$$$$$$                  /$$            
+ /$$__  $$                | $$       /$$__  $$                | $$            
+|__/  \ $$ /$$$$$$$   /$$$$$$$      | $$  \__/  /$$$$$$   /$$$$$$$  /$$$$$$   
+  /$$$$$$/| $$__  $$ /$$__  $$      | $$       /$$__  $$ /$$__  $$ /$$__  $$  
+ /$$____/ | $$  \ $$| $$  | $$      | $$      | $$  \ $$| $$  | $$| $$$$$$$$  
+| $$      | $$  | $$| $$  | $$      | $$    $$| $$  | $$| $$  | $$| $$_____/  
+| $$$$$$$$| $$  | $$|  $$$$$$$      |  $$$$$$/|  $$$$$$/|  $$$$$$$|  $$$$$$$  
+|________/|__/  |__/ \_______/       \______/  \______/  \_______/ \_______/  
+                                                                              
+                                                                              
+                                                                              
+  /$$$$$$  /$$                 /$$ /$$                                        
+ /$$__  $$| $$                | $$| $$                                        
+| $$  \__/| $$$$$$$   /$$$$$$ | $$| $$  /$$$$$$  /$$$$$$$   /$$$$$$   /$$$$$$ 
+| $$      | $$__  $$ |____  $$| $$| $$ /$$__  $$| $$__  $$ /$$__  $$ /$$__  $$
+| $$      | $$  \ $$  /$$$$$$$| $$| $$| $$$$$$$$| $$  \ $$| $$  \ $$| $$$$$$$$
+| $$    $$| $$  | $$ /$$__  $$| $$| $$| $$_____/| $$  | $$| $$  | $$| $$_____/
+|  $$$$$$/| $$  | $$|  $$$$$$$| $$| $$|  $$$$$$$| $$  | $$|  $$$$$$$|  $$$$$$$
+ \______/ |__/  |__/ \_______/|__/|__/ \_______/|__/  |__/ \____  $$ \_______/
+                                                           /$$  \ $$          
+                                                          |  $$$$$$/          
+                                                           \______/           
+
 
 # The Problem
 
@@ -24,7 +36,7 @@ The basic goal of LinkedOut is to match professionals to companies so that both 
 
 
 ## How professionals and companies choose each other?
-1. Each professional compiles a **‚Äúprofessional wish list‚Äù** that is a rank-ordered list of companies that she/he wishes to work for.
+1. Each professional compiles a **‚Äˇprofessional wish list‚Äˇ** that is a rank-ordered list of companies that she/he wishes to work for.
 2. Every company compiles a similar list of professionals in order from most to least preferable to hire. Moreover, each company provides the number of its currently open positions (**slots**) that wishes to fill.
 
 # Scoring
@@ -44,7 +56,7 @@ For a scoring example see this case.
 
 # Goal
 
-Your project is to develop an algorithm that will match professionals to companies so that the final result is very close to an **‚Äúideal hiring‚Äù**. 
+Your project is to develop an algorithm that will match professionals to companies so that the final result is very close to an **‚Äˇideal hiring‚Äˇ**. 
 
 
 The final deliverables should be:
