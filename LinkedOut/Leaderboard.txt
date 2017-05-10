@@ -1,0 +1,19 @@
+ Rank  |        Coder                 |  Submitted date  |  Penalty Points  |  Speed Rank  |    Language    
+------------------------------------------------------------------------------------------------------------
+   1   |    Iasonas Gavriilidis       |    2017-01-04    |        0         |     99%      |       C        
+       |    Iasonas Gavriilidis       |    2017-01-02    |        0         |    98.3%     |       C        
+       |    Iasonas Gavriilidis       |    2016-12-19    |        0         |    95.4%     |       C        
+   2   |    Nick Bitounis             |    2017-01-01    |        0         |    95.3%     |   .NET Core    
+       |    Nick Bitounis             |    2016-12-29    |        0         |    95.1%     |   .NET Core    
+       |    Nick Bitounis             |    2016-12-23    |        0         |    94.5%     |   .NET Core    
+   3   |    Ioannis Karadimas         |    2016-12-21    |        0         |    91.5%     |    Node.js     
+   4   |    Laertis Pappas            |    2016-12-29    |        0         |    90.8%     |     Scala      
+       |    Nick Bitounis             |    2016-12-22    |        0         |    68.5%     |   .NET Core    
+       |    Laertis Pappas            |    2016-12-12    |        0         |    67.2%     |     Scala      
+       |    Nick Bitounis             |    2016-12-18    |        0         |     58%      |   .NET Core    
+       |    Iasonas Gavriilidis       |    2016-12-09    |        0         |    56.9%     |   .NET Core    
+       |    Laertis Pappas            |    2016-12-05    |        0         |     48%      |      Ruby      
+       |    Iasonas Gavriilidis       |    2016-12-17    |        66        |    96.2%     |       C        
+       |    Ioannis Karadimas         |    2016-12-15    |        69        |    92.3%     |    Node.js     
+       |    Nick Bitounis             |    2016-12-14    |        118       |    94.8%     |   .NET Core    
+       |                              |                  |                  |              |                

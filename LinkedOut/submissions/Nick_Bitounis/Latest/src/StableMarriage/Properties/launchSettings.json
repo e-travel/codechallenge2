@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StableMarriage": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\\\..\\\\samples\\\\big\\companies.csv ..\\\\..\\\\samples\\\\big\\professionals.csv ..\\\\..\\\\samples\\\\big\\\\matchings.csv"
+    }
+  }
+}
