@@ -37,7 +37,7 @@ The basic goal of LinkedOut is to match professionals to companies so that both 
 
 
 ## How professionals and companies choose each other?
-1. Each professional compiles a **â€ÿprofessional wish listâ€ÿ** that is a rank-ordered list of companies that she/he wishes to work for.
+1. Each professional compiles a **professional wish list** that is a rank-ordered list of companies that she/he wishes to work for.
 2. Every company compiles a similar list of professionals in order from most to least preferable to hire. Moreover, each company provides the number of its currently open positions (**slots**) that wishes to fill.
 
 # Scoring
@@ -57,7 +57,7 @@ For a scoring example see this case.
 
 # Goal
 
-Your project is to develop an algorithm that will match professionals to companies so that the final result is very close to an **â€ÿideal hiringâ€ÿ**. 
+Your project is to develop an algorithm that will match professionals to companies so that the final result is very close to an **ideal hiring**. 
 
 
 The final deliverables should be:
@@ -77,7 +77,7 @@ The final deliverables should be:
 
 # More Details
 
-For the sake of simplicity letâ€™s assume that every company list includes every single professional and every professional ranks all the companies in the platform.
+For the sake of simplicity let's assume that every company list includes every single professional and every professional ranks all the companies in the platform.
 
 
 # Example
@@ -125,7 +125,7 @@ Facebook: Mark
 
 Above output is an ideal hiring, so it gets **0** penalty points.
 
-Letâ€™s see a non-ideal hiring:
+Let's see a non-ideal hiring:
 
 
 Sample #2:
